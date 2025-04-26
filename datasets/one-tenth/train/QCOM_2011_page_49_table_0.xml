@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder/>
+   <filename>QCOM_2011_page_49_table_0.jpg</filename>
+   <path>QCOM_2011_page_49_table_0.jpg</path>
+   <source>
+      <database>FinTabNet.c-Structure</database>
+   </source>
+   <size>
+      <width>714</width>
+      <height>167</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>table</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>28.6655</xmin>
+         <ymin>29.2508</ymin>
+         <xmax>682.9483</xmax>
+         <ymax>136.4308</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table row</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>28.6655</xmin>
+         <ymin>29.2508</ymin>
+         <xmax>682.9483</xmax>
+         <ymax>60.2651</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table row</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>28.6655</xmin>
+         <ymin>60.2651</ymin>
+         <xmax>682.9483</xmax>
+         <ymax>105.4166</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table row</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>28.6655</xmin>
+         <ymin>105.4166</ymin>
+         <xmax>682.9483</xmax>
+         <ymax>136.4308</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table column</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>28.6655</xmin>
+         <ymin>29.2508</ymin>
+         <xmax>52.8680</xmax>
+         <ymax>136.4308</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table column</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>52.8680</xmin>
+         <ymin>29.2508</ymin>
+         <xmax>682.9483</xmax>
+         <ymax>136.4308</ymax>
+      </bndbox>
+   </object>
+</annotation>

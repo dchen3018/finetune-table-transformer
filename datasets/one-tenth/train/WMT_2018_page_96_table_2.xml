@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder/>
+   <filename>WMT_2018_page_96_table_2.jpg</filename>
+   <path>WMT_2018_page_96_table_2.jpg</path>
+   <source>
+      <database>FinTabNet.c-Structure</database>
+   </source>
+   <size>
+      <width>697</width>
+      <height>123</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>table</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>29.0253</xmin>
+         <ymin>28.5794</ymin>
+         <xmax>665.7004</xmax>
+         <ymax>91.8044</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table row</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>29.0253</xmin>
+         <ymin>28.5794</ymin>
+         <xmax>665.7004</xmax>
+         <ymax>72.8181</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table row</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>29.0253</xmin>
+         <ymin>72.8181</ymin>
+         <xmax>665.7004</xmax>
+         <ymax>91.8044</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table column</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>29.0253</xmin>
+         <ymin>28.5794</ymin>
+         <xmax>90.9950</xmax>
+         <ymax>91.8044</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table column</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>90.9950</xmin>
+         <ymin>28.5794</ymin>
+         <xmax>665.7004</xmax>
+         <ymax>91.8044</ymax>
+      </bndbox>
+   </object>
+</annotation>

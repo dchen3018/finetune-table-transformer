@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder/>
+   <filename>ETR_2011_page_517_table_1.jpg</filename>
+   <path>ETR_2011_page_517_table_1.jpg</path>
+   <source>
+      <database>FinTabNet.c-Structure</database>
+   </source>
+   <size>
+      <width>705</width>
+      <height>179</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>table</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>28.6364</xmin>
+         <ymin>29.0164</ymin>
+         <xmax>674.1146</xmax>
+         <ymax>147.6136</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table row</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>28.6364</xmin>
+         <ymin>29.0164</ymin>
+         <xmax>674.1146</xmax>
+         <ymax>71.6489</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table row</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>28.6364</xmin>
+         <ymin>71.6489</ymin>
+         <xmax>674.1146</xmax>
+         <ymax>147.6136</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table column</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>28.6364</xmin>
+         <ymin>29.0164</ymin>
+         <xmax>89.2823</xmax>
+         <ymax>147.6136</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table column</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>89.2823</xmin>
+         <ymin>29.0164</ymin>
+         <xmax>674.1146</xmax>
+         <ymax>147.6136</ymax>
+      </bndbox>
+   </object>
+</annotation>
