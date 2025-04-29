@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+src/TATR-v1.1-Fin-msft.pth
